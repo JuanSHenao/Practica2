@@ -8,3 +8,5 @@ Huevos
 Harina
 Aceite
 Vinagre
+Jamón
+Salsa
