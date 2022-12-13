@@ -1,7 +1,12 @@
 Modificando el archivo de hola
 Soy el primer archivo
 
+Luis lo editó
+
 Juanse lo editó
 
 Línea adicional en el archivo de hola
+Nuevos cambios
+
+Cambios hechos por Luis
 Otra línea
